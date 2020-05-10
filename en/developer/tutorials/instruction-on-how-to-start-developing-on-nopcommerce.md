@@ -24,15 +24,15 @@ Since it is based on Microsoft's ASP.NET framework we need to install a few tool
 
 ### 1.1 \.Net Core 2.2 runtime & .Net Core SDK
 
-Since nopCommerce 4.2 is based on .Net Core 2.2 framework. We need to install .Net Core 2.2 runtime and .Net Core SDK before we start development on nopCommerce.
+Since nopCommerce 4.2 is based on .Net Core 2.2 framework, we need to install .Net Core 2.2 runtime and .Net Core SDK before we start development on nopCommerce.
 
 ### 1.2 Visual Studio 2017 or Above / Visual Studio Code
 
-As we know nopCommerce is based on 'Microsoft's ASP.NET framework' and Visual Studio IDE is best for developing Dot Net based Applications. Since .Net Core is platform independent so we can develop and deploy .Net based application on any platform but visual studio is not available in other platforms than window. So we can use Visual Studio Code as the alternative of Visual Studio for developing on Windows as well as in other platform.
+As we know nopCommerce is based on 'Microsoft's ASP.NET framework' and Visual Studio IDE is best for developing .Net based applications. Since .Net Core is platform independent we can develop and deploy .Net based application on any platform but Visual Studio is not available on platforms other than Windows. So we can use Visual Studio Code as the alternative of Visual Studio for developing on Windows as well as on other platforms.
 
 ### 1.3 Microsoft SQL Server 2012 or Above
 
-nopCommerce uses Entity Framework as a ORM Framework. Entity Framework is an object-relational mapper (O/RM) that enables .NET developers to work with a database using .NET objects. It can map .Net objects to various numbers of Database providers. But unfortunately out of the box nopCommerce doesn't support other database than MSSQL.
+nopCommerce uses Entity Framework as its ORM Framework. Entity Framework is an Object-Relational Mapper (O/RM) that enables .NET developers to work with a database using .NET objects. It can map .NET objects to various numbers of database providers. However  currently nopCommerce doesn't support databases other than MSSQL out of the box.
 
 ### 1.4 Internet Information Service (IIS) 7.0 or above
 
